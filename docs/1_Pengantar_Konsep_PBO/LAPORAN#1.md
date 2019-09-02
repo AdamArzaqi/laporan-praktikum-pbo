@@ -74,6 +74,8 @@ TUGAS!!!`
 
 ![SEPATU](img/SEPATUDEMOMAIN.JPG)
 
+![SEPATU](img/SEPATUDEMOOUT.JPG)
+
 Contoh link kode program : [Sepatu](../../src/1_Pengantar_Konsep_PBO/Sepatu.java)
 
 ## Kesimpulan
