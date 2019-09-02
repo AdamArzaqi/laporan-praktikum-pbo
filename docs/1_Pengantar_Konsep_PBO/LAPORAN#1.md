@@ -30,7 +30,7 @@ PERCOBAAN 2
 
 SepedaGunung.java
 
-![Sepeda](img/ SEPEDAGUNUNG.JPG)
+![SEPEDA](img/SEPEDAGUNUNG.JPG)
 
 Contoh link kode program : [Sepeda Gunung](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
@@ -68,11 +68,11 @@ Kecepatan,gear,merek
 
 TUGAS!!!`
 
-![contoh screenshot](img/SEPATUCLASS.JPG)
+![SEPATU](img/SEPATUCLASS.JPG)
 
-![contoh screenshot](img/SEPATUBOLA.JPG)
+![SEPATU](img/SEPATUBOLA.JPG)
 
-![contoh screenshot](img/SEPATUDEMO MAIN.JPG)
+![SEPATU](img/SEPATUDEMO MAIN.JPG)
 
 Contoh link kode program : [Sepatu](../../src/1_Pengantar_Konsep_PBO/Sepatu.java)
 
