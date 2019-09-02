@@ -20,7 +20,7 @@ PERCOBAAN 1.
 
 Sepeda.class
 
-![Sepeda](img/ SEPEDACLASS.JPG)
+![SEPEDA](img/SEPEDACLASS.JPG)
 
 Contoh link kode program : [Sepeda](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 
