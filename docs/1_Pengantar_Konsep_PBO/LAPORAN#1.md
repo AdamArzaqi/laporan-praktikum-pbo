@@ -80,7 +80,8 @@ Contoh link kode program : [Sepatu](../../src/1_Pengantar_Konsep_PBO/Sepatu.java
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Dari percobaan diatas, kita telah mendemonstrasikan bagaimana paradigma pemrograman berorientasi objek dan mengimplementasikannya kedalam program sederhana. Kita juga telah mendemonstrasikan salah satu fitur paling penting dari PBO yaitu inheritance, yaitu 
+dalam hal membuat class SepedaGunung. 
 
 ## Pernyataan Diri
 
