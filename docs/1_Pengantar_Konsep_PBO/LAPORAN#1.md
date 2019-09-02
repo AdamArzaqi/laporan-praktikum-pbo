@@ -2,47 +2,79 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+Mampu mengenal: 
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Pada dasarnya masih sama dengan semester sebelumnya yan saya pelajari. Namun, pada materi
+kali ini materi nya menurut saya lebih ke merapikan sebuah code. Dan mengenal beberapa
+aturan-aturan atau cara baru.
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+PERCOBAAN 1.
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+Sepeda.class
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![Sepeda](img/ SEPEDACLASS.JPG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [Sepeda](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+PERCOBAAN 2
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+SepedaGunung.java
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![Sepeda](img/ SEPEDAGUNUNG.JPG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [Sepeda Gunung](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+
+1.	Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+Jawab : 
+•	Object 
+Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Object pada software dimodelkan sedemikian rupa sehingga mirip dengan objek yang ada di dunia nyata.
+•	Class 
+Class adalah blueprint atau prototype dari objek.
+•	Enkapsulasi
+Dalam berinteraksi dengan objek, seringkali kita tidak perlu mengetahui kompleksitas yang ada didalamnya.
+•	Inheritance
+Disebut juga pewarisan. Inheritance memungkinkan kita untuk mengorganisir struktur program dengan natural.
+•	Polimorfisme 
+Polimorfisme juga meniru sifat objek di dunia nyata, dimana sebuah objek dapat memiliki bentuk, atau menjelma menjadi bentuk-bentuk lain.
+
+
+2.	Apa yang dimaksud dengan object dan apa bedanya dengan class? 
+Jawab : 
+Object yaitu Object adalah suatu rangkaian dalam program yang terdiri dari state dan behavior,sedangkan class adalah blueprint atau prototype dari objek.
+
+3.	Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
+Jawab : 
+Kelebihan PBO adalah program dapat lebih fleksibel dan modular, jika ada perubahan fitur, maka dapat dipastikan keseluruhan program tidak akan terganggu. Berbeda dengan struktural, perubahan sedikit fitur saja kemungkinan dapat mengganggu keseluruhan program.  
+
+4.	Pada class Sepeda, terdapat state/atribut apa saja?
+Jawab : 
+Kecepatan,gear,merek
+
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+TUGAS!!!`
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![contoh screenshot](img/SEPATUCLASS.JPG)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![contoh screenshot](img/SEPATUBOLA.JPG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+![contoh screenshot](img/SEPATUDEMO MAIN.JPG)
+
+Contoh link kode program : [Sepatu](../../src/1_Pengantar_Konsep_PBO/Sepatu.java)
 
 ## Kesimpulan
 
@@ -56,4 +88,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Mochammad Adam's Arzaqi)***
