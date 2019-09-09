@@ -2,15 +2,17 @@
 
 ## Kompetensi
 
-Mampu mengenal: 
-1. 
-2. 
+- Mahasiswa dapat memahami deskripsi dari class dan object
+- Mahasiswa memahami implementasi dari class
+- Mahasiswa dapat memahami implementasi dari attribute
+- Mahasiswa dapat memahami implementasi dari method
+- Mahasiswa dapat memahami implementasi dari proses instansiasi
+- Mahasiswa dapat memahami implementasi dari try-catch
+- Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML 
 
 ## Ringkasan Materi
 
-Pada dasarnya masih sama dengan semester sebelumnya yang saya pelajari. Namun, pada materi
-kali ini materi nya menurut saya lebih ke merapikan sebuah code. Dan mengenal beberapa
-aturan-aturan atau cara baru.
+Pemahaman Pada materi kali ini, saya lebiih ter-jelaskan lagi untuk memfungsikan sebuah fungsi dan method-method-nya.
 
 ## Percobaan
 
@@ -37,15 +39,15 @@ Link kode program : [TEST MAHASISWA](../../src/1_Pengantar_Konsep_PBO/TestMahasi
 5. Simpan file dengan TestMahasiswa.java 
 6. Jalankan class TestMahasiswa
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas! 
-    JAWAB : 
+    JAWAB : Pada clas mahasiswa dari  line 2 sampai dengan line 5
 8. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas! 
-    JAWAB :
+    JAWAB : pada class mahasiswa pada line ke 7
 9. Berapa banyak objek yang di instansiasi pada program diatas! 
-    JAWAB :
+    JAWAB : satu ,  pada class  testMahasiswa
 10. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101” ? 
-    JAWAB :
+    JAWAB : menampilkan pada objek
 11. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” ? 
-    JAWAB :
+    JAWAB : untuk  menampilkan output yang  dihasilkan
 12. Instansiasi 2 objek lagi pada program diatas!
 ![MAHASISWA](img/2.12.JPG)
 Link kode program : [MAHASISWA](../../src/1_Pengantar_Konsep_PBO/Mahasiswa.java)
