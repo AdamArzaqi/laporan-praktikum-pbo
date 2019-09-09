@@ -83,7 +83,9 @@ Penjelasan:
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
 
+
 ![DIAGRAM](img/tugas2.JPG)
+
 
 3. Buatlah program sesuai dengan class diagram berikut ini: 
 
