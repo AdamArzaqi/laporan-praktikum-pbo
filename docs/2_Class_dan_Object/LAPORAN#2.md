@@ -36,6 +36,7 @@ Link kode program : [MAHASISWA](../../src/2_Class_dan_Object/Mahasiswa.java)
 
 Link kode program : [TEST MAHASISWA](../../src/2_Class_dan_Object/TestMahasiswa.java)
 
+
 5. Simpan file dengan TestMahasiswa.java 
 6. Jalankan class TestMahasiswa
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas! 
