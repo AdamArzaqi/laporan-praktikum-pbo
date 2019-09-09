@@ -86,6 +86,12 @@ Penjelasan:
 
 ![LINGKARAN](img/tugasLingkaran1.JPG)
 ![LINGKARAN](img/tugasLingkaran2.JPG)
+
+4. Buatlah program sesuai dengan class diagram berikut ini: 
+
+![DISKON](img/tugas4.1.JPG)
+![DISKON](img/tugas4.2.JPG)
+![DISKON](img/tugas4Out.JPG)
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
