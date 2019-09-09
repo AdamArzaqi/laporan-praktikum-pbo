@@ -60,10 +60,12 @@ Link kode program : [TEST MAHASISWA](../../src/1_Pengantar_Konsep_PBO/TestMahasi
 
 1. Bukalah text editor atau IDE, misalnya Notepad ++ / netbeans.
 2. Ketikkan kode program berikut ini: 
-![MAHASISWA](img/3.2.JPG)
+![BARANG](img/3.2.JPG)
+Link kode program : [BARANG](../../src/1_Pengantar_Konsep_PBO/Barang.java)
 3. Simpan dengan nama file Barang.java
 4. Untuk dapat mengakses anggota-anggota dari suatu obyek, maka harus dibuat instance dari class tersebut terlebih dahulu. Berikut ini adalah cara pengaksesan anggota- anggota dari class Barang dengan membuka file baru kemudian ketikkan kode program berikut: 
-![MAHASISWA](img/3.4.JPG)
+![BARANG](img/3.4.JPG)
+Link kode program : [BARANG](../../src/1_Pengantar_Konsep_PBO/TestBarang.java)
 5. Simpan dengan nama file TestBarang.java
 6. Jalankan program tersebut!
 7. Apakah fungsi argumen dalam suatu method?
@@ -78,8 +80,10 @@ Penjelasan:
 -Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 
 ![PENYEWAAN](img/tugasSewa1.JPG)
+Link kode program : [PENYEWAAN](../../src/1_Pengantar_Konsep_PBO/Penyewaan.java)
 ![PENYEWAAN](img/tugasSewa2.JPG)
 ![PENYEWAAN](img/tugasSewaOut.JPG)
+Link kode program : [PENYEWAAN](../../src/1_Pengantar_Konsep_PBO/PenyewaanTest.java)
 
 2. Buatlah program dari class diagram yang sudah anda buat di no 1! 
 
@@ -89,13 +93,24 @@ Penjelasan:
 3. Buatlah program sesuai dengan class diagram berikut ini: 
 
 ![LINGKARAN](img/tugasLingkaran1.JPG)
+
+Link kode program : [LINGKARAN](../../src/1_Pengantar_Konsep_PBO/Lingkaran.java)
+
 ![LINGKARAN](img/tugasLingkaran2.JPG)
+
+Link kode program : [LINGKARAN](../../src/1_Pengantar_Konsep_PBO/LingkaranTest.java)
 
 4. Buatlah program sesuai dengan class diagram berikut ini: 
 
 ![DISKON](img/tugas4.1.JPG)
+
+Link kode program : [TUGAS4](../../src/1_Pengantar_Konsep_PBO/Barang1.java)
+
 ![DISKON](img/tugas4.2.JPG)
 ![DISKON](img/tugas4Out.JPG)
+
+Link kode program : [TUGAS4](../../src/1_Pengantar_Konsep_PBO/BarangTest.java)
+
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
