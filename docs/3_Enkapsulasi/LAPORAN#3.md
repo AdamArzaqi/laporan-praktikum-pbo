@@ -38,7 +38,7 @@ bentuk UML class diagram class Motor adalah sebagai berikut:
 
 ![ENKAPSULASI](img/coba1Out.JPG)
 
-Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/MotorDemo.java)
+Link kode program : [ENKAPSULASIi](../../src/3_Enkapsulasi/MotorDemo.java)
 
 ## 3.2 Percobaan 2 - Access Modifier 
 
