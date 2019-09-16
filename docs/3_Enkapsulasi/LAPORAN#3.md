@@ -24,6 +24,8 @@ Didalam percobaan enkapsulasi, buatlah class Motor yang memiliki atribut kecepat
 
 ![ENKAPSULASI](img/coba1.3.JPG)
 
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/Motor.java)
+
 bentuk UML class diagram class Motor adalah sebagai berikut: 
 
 ![ENKAPSULASI](img/coba1.uml.JPG)
@@ -35,6 +37,8 @@ bentuk UML class diagram class Motor adalah sebagai berikut:
 5. Hasilnya adalah sebagai berikut: 
 
 ![ENKAPSULASI](img/coba1Out.JPG)
+
+Link kode program : [MAHASISWA](../../src/3_Enkapsulasi/MotorDemo.java)
 
 ## 3.2 Percobaan 2 - Access Modifier 
 
@@ -53,6 +57,8 @@ Implementasi class Motor adalah sebagai berikut:
 
 ![ENKAPSULASI](img/coba2.2.JPG)
 
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/Motor.java)
+
 3. Kemudian pada class MotorDemo, ubah code menjadi seperti berikut: 
 
 ![ENKAPSULASI](img/coba2.3.JPG)
@@ -60,6 +66,8 @@ Implementasi class Motor adalah sebagai berikut:
 4. Hasilnya dari class MotorDemo adalah sebagai berikut:
 
 ![ENKAPSULASI](img/coba2Out.JPG)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/MotorDemo.java)
 
 ## 3.3 Pertanyaan
 1. Pada class TestMobil, saat kita menambah kecepatan untuk pertama kalinya, mengapa muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
@@ -91,9 +99,13 @@ c . Ketikkan kode class Anggota dibawah ini.
 
 ![ENKAPSULASI](img/coba3.2.JPG)
 
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/Anggota.java)
+
 3. Selanjutnya buatlah class KoperasiDemo untuk mencoba class Anggota
 
 ![ENKAPSULASI](img/coba3.3.JPG)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/KoperasiDemo.java)
 
 ## 3.5 Percobaan 4 -  Konstruktor, Instansiasi
 
@@ -169,8 +181,46 @@ JAWABAN:
 
 ![TUGAS](img/tugas1Out.JPG)
 
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/EncapDemo.java)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/EncapTest.java)
+
 2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa. 
 
 JAWABAN :
 
 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
+
+4. Pada sebuah sistem informasi koperasi simpan pinjam, terdapat class Anggota yang memiliki atribut antara lain nomor KTP, nama, limit peminjaman, dan jumlah pinjaman. Anggota dapat meminjam uang dengan batas limit peminjaman yang ditentukan. Anggota juga dapat mengangsur pinjaman. Ketika Anggota tersebut mengangsur pinjaman, maka jumlah pinjaman akan berkurang sesuai dengan nominal yang diangsur. Buatlah class Anggota tersebut, berikan atribut, method dan konstruktor sesuai dengan kebutuhan. Uji dengan TestKoperasi berikut ini untuk memeriksa apakah class Anggota yang anda buat telah sesuai dengan yang diharapkan. 
+
+![TUGAS](img/tugas4.1.JPG)
+
+![TUGAS](img/tugas4.2.JPG)
+
+![TUGAS](img/tugas4Out.JPG)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/AnggotaKoperasi.java)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/TestKoperasi.java)
+
+5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf, angsuran harus 10% dari jumlah pinjaman”.
+
+![TUGAS](img/tugas5.1.JPG)
+
+![TUGAS](img/tugas5.2.JPG)
+
+![TUGAS](img/tugas5Out.JPG)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/AnggotaKoperasi.java)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/TestKoperasi.java)
+
+6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran dapat menerima input dari console
+
+![TUGAS](img/tugas6.JPG)
+
+![TUGAS](img/tugas6Out.JPG)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/AnggotaKoperasi.java)
+
+Link kode program : [ENKAPSULASI](../../src/3_Enkapsulasi/TestKoperasi.java)
