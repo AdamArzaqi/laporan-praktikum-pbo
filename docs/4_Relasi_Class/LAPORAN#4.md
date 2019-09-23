@@ -251,14 +251,14 @@ public void setPenumpang(Penumpang penumpang, int nomor) { this.arrayKursi[nomor
 ## <br>Tugas
 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung). 
-<br><br>![RELASI](img/Tugas1.JPG)
+<br><br>![RELASI](img/tugas1.JPG)
 <br>Link kode program : [RELASI](../../src/4_Relasi_Class/Pelanggan.java)
-<br><br>![RELASI](img/Tugas2.JPG)
+<br><br>![RELASI](img/tugas2.JPG)
 <br>Link kode program : [RELASI](../../src/4_Relasi_Class/Pengajar.java)
-<br><br>![RELASI](img/Tugas3.JPG)
+<br><br>![RELASI](img/tugas3.JPG)
 <br>Link kode program : [RELASI](../../src/4_Relasi_Class/Mobil.java)
-<br><br>![RELASI](img/Tugas4.JPG)
+<br><br>![RELASI](img/tugas4.JPG)
 <br>Link kode program : [RELASI](../../src/4_Relasi_Class/JenisMobil.java)
-<br><br>![RELASI](img/TugasMain.JPG)
+<br><br>![RELASI](img/tugasMain.JPG)
 <br>Link kode program : [RELASI](../../src/4_Relasi_Class/Mainpercobaan2.java)
-<br><br>![RELASI](img/TugasOut.JPG)
+<br><br>![RELASI](img/tugasOut.JPG)
