@@ -259,7 +259,7 @@ Link Kode Program : [INHERITANCE](../../src/6_Inheritance/Tugas6.java)
 
 - Pada jobsheet 6, kami diajarkan untuk mengimplementasikan metode inheritance atau turunan antar class  
 
-## Pernyataan Diri.
+## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
 
