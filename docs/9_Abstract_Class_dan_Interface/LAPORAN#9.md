@@ -78,8 +78,14 @@ Link Kode Program [JS9](../../src/9_Abstract_Class_dan_Interface/Sarjana.java)
 
 11. Pertanyaan diskusi:  
 <br>a. Mengapa pada langkah nomor 9 terjadi error? Jelaskan! 
+<br>Jawaban : Karena pada objek pakRektor memanggil Mahasiswa. Sedangkan calss MAhasiswa itu sendiri tidak ter-implements dengan Interface cumlaude. Dan pada class Rektor membutuhkan Interface cumlaude
+
 <br>b. Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian? 
+<br>Jawab : Bisa, karena pada class Sarjana sudah di inansiasi menjadi objek sarjana Cumlaude di class Program. Dan class SArjana sudah ter-extends dengan class Mahasiswa
+
 <br>c. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian? 
+<br>Tidak boleh, sebab pada object pakRektor memanggil method beriSertifikatCumlaude() untuk membuat inputan sebuah objek yang sudah terinstansi. Bukan untuk memanggil method.
+
 <br>d. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini: 
 <br>![JS9](img/pertanyaan2D.JPG)
 <br>![JS9](img/pertanyaan2DD.JPG)
