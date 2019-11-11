@@ -16,7 +16,7 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
  1. Buatlah sebuah project baru di NetBeans dengan nama HelloGui 
  2. Tambahkan paket Java ke dalam kode program, import javax.swing.*; 
  3. Pada program utama main(), tuliskan script code berikut 
- ![GUI](img/hellogui.PNG)
+ ![GUI](img/hellogui.png)
 
  ![GUI](img/helloguiout.PNG)
 
