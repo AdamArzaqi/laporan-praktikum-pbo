@@ -45,37 +45,37 @@ Casting objek digunakan untuk mengubah tipe dari suatu objek. Jika ada suatu obj
 
 #### employe
 
-![employe](img/employee.PNG)
+![employe](img/employee.png)
 [Employee](../../src/10_Polimorfisme/Employee.java)
 
 #### Payable
 
-![payable](img/payable.PNG)
+![payable](img/payable.png)
 
 [Payable](../../src/10_Polimorfisme/Payable.java)
 
 #### InternshipEmployee
 
-![intership](img/intershipemployee.PNG)
+![intership](img/intershipemployee.png)
 
 [InternshipEmployee](../../src/10_Polimorfisme/InternshipEmployee.java)
 
 #### PermanentEmployee
 
-![permanent](img/permanenemployee.PNG)
+![permanent](img/permanenemployee.png)
 
 [PermanentEmployee](../../src/10_Polimorfisme/PermanenEmployee.java)
 
 #### ElectricityBill
 
-![Electricity](img/electicitybill1.PNG)
-![Electricity](img/electicitybill2.PNG)
+![Electricity](img/electicitybill1.png)
+![Electricity](img/electicitybill2.png)
 
 [ElectricityBill](../../src/10_Polimorfisme/ElectricityBill.java)
 
 #### Tester1
 
-![tester1](img/tester1.PNG)
+![tester1](img/tester1.png)
 
 [Tester1](../../src/10_Polimorfisme/Tester1.java)
 
@@ -117,8 +117,8 @@ Jadi ketika ada oject yang di deklarasikan sebagai parent class, maka object ter
 
 #### Tester2
 
-![tester2](img/tester2.PNG)
-![tester2](img/tester2out.PNG)
+![tester2](img/tester2.png)
+![tester2](img/tester2out.png)
 
 [Tester2](../../src/10_Polimorfisme/Tester2.java)
 
@@ -146,7 +146,7 @@ Virtual method invocation terjadi ketika ada pemanggilan overriding method dari 
 
 #### Tester 3
 
-![tester3](img/tester3.PNG)
+![tester3](img/tester3.png)
 
 [Tester3](../../src/10_Polimorfisme/Tester3.java)
 
@@ -174,14 +174,14 @@ Karena eBill bukan termasuk Class turunan dari Class Employee.
 
 #### Owner 
 
-![Owner](img/owner.PNG)
+![Owner](img/owner.png)
 
 [OWNER](../../src/10_Polimorfisme/Owner.java)
 
 #### Tester4
 
-![tester4](img/tester4.PNG)
-![tester4](img/tester4out.PNG)
+![tester4](img/tester4.png)
+![tester4](img/tester4out.png)
 
 [Tester4](../../src/10_Polimorfisme/Tester4.java)
 
@@ -260,32 +260,32 @@ berkurang 1%
 
 jawab :
 
-![barrier](img/barrier.PNG)
+![barrier](img/barrier.png)
 
 [Barrier](../../src/10_Polimorfisme/Barrier.java)
 
-![destroyable](img/destroyable.PNG)
+![destroyable](img/destroyable.png)
 
 [Destroyable](../../src/10_Polimorfisme/Destroyable.java)
 
-![jumping](img/jumpingzombie.PNG)
+![jumping](img/jumpingzombie.png)
 
 [JumpingZombie](../../src/10_Polimorfisme/JumpingZombie.java)
 
-![plant](img/plant.PNG)
+![plant](img/plant.png)
 
 [Plant](../../src/10_Polimorfisme/Plant.java)
 
-![walking](img/walkingzombie.PNG)
+![walking](img/walkingzombie.png)
 
 [WalkingZombie](../../src/10_Polimorfisme/WalkingZombie.java)
 
-![zombie](img/zombie.PNG)
+![zombie](img/zombie.png)
 
 [Zombie](../../src/10_Polimorfisme/Zombie.java)
 
-![tester](img/tester.PNG)
-![tester](img/testerout.PNG)
+![tester](img/tester.png)
+![tester](img/testerout.png)
 
 [TESTER](../../src/10_Polimorfisme/Tester.java)
 
