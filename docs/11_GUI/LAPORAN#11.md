@@ -20,7 +20,7 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
  ![GUI](img/helloguiout.png)
 
- Link Kode Program [GUI](../../src/7_GUI/HelloGui.java)
+ Link Kode Program [GUI](../../src/11_GUI/HelloGui.java)
 
  ## Percobaan 2: Menangani Input Pada GUI 
 
@@ -28,11 +28,11 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
  ![GUI](img/myinputfrom.png)
   
-  Link Kode Program [GUI](../../src/7_GUI/MyInputFrom.java)
+  Link Kode Program [GUI](../../src/11_GUI/MyInputFrom.java)
 
  ![GUI](img/myinputfrommain.png)
 
- Link Kode Program [GUI](../../src/7_GUI/MyInputFormTest.java)
+ Link Kode Program [GUI](../../src/11_GUI/MyInputFormTest.java)
 
  ![GUI](img/myinputfromout.png)
 
@@ -53,23 +53,23 @@ a) Border layout
 
 ![GUI](img/border.png)
 
-Link Kode Program [GUI](../../src/7_GUI/Border.java)
+Link Kode Program [GUI](../../src/11_GUI/Border.java)
 
 b) Grid layout  
 
 ![GUI](img/grid.png)
 
-Link Kode Program [GUI](../../src/7_GUI/Grid.java)
+Link Kode Program [GUI](../../src/11_GUI/Grid.java)
 
 c) Box layout
 
 ![GUI](img/box.png)
 
-Link Kode Program [GUI](../../src/7_GUI/Box.java)
+Link Kode Program [GUI](../../src/11_GUI/Box.java)
 
 ![GUI](img/layoutgui.png)
 
-Link Kode Program [GUI](../../src/7_GUI/LayoutGUI.java)
+Link Kode Program [GUI](../../src/11_GUI/LayoutGUI.java)
 
 ![GUI](img/percobaan3out.png)
 
@@ -98,7 +98,7 @@ b) Apakah fungsi dari masing-masing kode berikut?
 
 ![GUI](img/swingout2.png)
 
-Link Kode Program [GUI](../../src/7_GUI/Swing.java)
+Link Kode Program [GUI](../../src/11_GUI/Swing.java)
 
 ## Kesimpulan
 
