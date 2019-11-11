@@ -18,7 +18,7 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
  3. Pada program utama main(), tuliskan script code berikut 
  ![GUI](img/hellogui.png)
 
- ![GUI](img/helloguiout.PNG)
+ ![GUI](img/helloguiout.png)
 
  Link Kode Program [GUI](../../src/7_GUI/HelloGui.java)
 
@@ -26,24 +26,24 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
  Selanjutnya adalah bagaimana memanfaatkan komponen-komponen GUI pada Java untuk menangani inputan, dengan memanfaatkan JFrame, JButton, JLabel, JTextField, JPanel dsb
 
- ![GUI](img/myinputfrom.PNG)
+ ![GUI](img/myinputfrom.png)
   
   Link Kode Program [GUI](../../src/7_GUI/MyInputFrom.java)
 
- ![GUI](img/myinputfrommain.PNG)
+ ![GUI](img/myinputfrommain.png)
 
  Link Kode Program [GUI](../../src/7_GUI/MyInputFormTest.java)
 
- ![GUI](img/myinputfromout.PNG)
+ ![GUI](img/myinputfromout.png)
 
 ## Pertanyaan 
 a) Modifikasi kode program dengan menambahkan JButton baru untuk melakukan fungsi perhitungan penambahan, sehingga ketika button di klik (event click) maka akan menampilkan hasil penambahan dari nilai A dan B 
 
-![GUI](img/pertanyaanpercobaan2.PNG)
+![GUI](img/pertanyaanpercobaan2.png)
 
-![GUI](img/pertanyaanpercobaan2a.PNG)
+![GUI](img/pertanyaanpercobaan2a.png)
 
-![GUI](img/pertanyaanpercobaan2b.PNG)
+![GUI](img/pertanyaanpercobaan2b.png)
 
 ## Percobaan 3: Manajemen Layout 
 
@@ -51,27 +51,27 @@ Java GUI menyediakan beberapa layout yang dapat digunakan pada program. Pada mod
 
 a) Border layout
 
-![GUI](img/border.PNG)
+![GUI](img/border.png)
 
 Link Kode Program [GUI](../../src/7_GUI/Border.java)
 
 b) Grid layout  
 
-![GUI](img/grid.PNG)
+![GUI](img/grid.png)
 
 Link Kode Program [GUI](../../src/7_GUI/Grid.java)
 
 c) Box layout
 
-![GUI](img/box.PNG)
+![GUI](img/box.png)
 
 Link Kode Program [GUI](../../src/7_GUI/Box.java)
 
-![GUI](img/layoutgui.PNG)
+![GUI](img/layoutgui.png)
 
 Link Kode Program [GUI](../../src/7_GUI/LayoutGUI.java)
 
-![GUI](img/percobaan3out.PNG)
+![GUI](img/percobaan3out.png)
 
 ## Pertanyaan 
 
@@ -90,13 +90,13 @@ b) Apakah fungsi dari masing-masing kode berikut?
 
 ## Percobaan 4: Membuat GUI Melalui IDE Netbeans 
 
-![GUI](img/swingcode.PNG)
+![GUI](img/swingcode.png)
 
-![GUI](img/swingdesign.PNG)
+![GUI](img/swingdesign.png)
 
-![GUI](img/swingout.PNG)
+![GUI](img/swingout.png)
 
-![GUI](img/swingout2.PNG)
+![GUI](img/swingout2.png)
 
 Link Kode Program [GUI](../../src/7_GUI/Swing.java)
 
