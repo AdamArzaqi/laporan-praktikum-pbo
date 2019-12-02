@@ -29,10 +29,23 @@ Link Kode Program [JAVA_API](../../src/12_Java_API/CobaHashSet.java)
 
 ## Pertanyaan
 1. Apakah fungsi import java.util.*; pada program diatas!
+> Jawab :
+Untuk mengimpor semua kelas di dalam java.
 2. Pada baris program keberapakah yang berfungsi untuk menciptakan object HashSet?
-3. Apakah fungsi potongan program dibawah ini pada percobaan 1! 
+> Jawab :
+Pada baris ke-16.
+3. Apakah fungsi potongan program dibawah ini pada percobaan 1!
+> Jawab :
+Untuk menambahkan objek kedalam HashSet() 
 4. Tambahkan set.add(“Malang”); kemudian jalankan program! Amati hasilnya dan jelaskan mengapa terjadi error!
+> Jawab :
+Karena nama objek yang seharusnya adalah mSetCity. Jika mengunakan set maka
+program tidak mengenali objek tersebut.
 5. Jelaskan fungsi potongan program dibawah ini pada percobaan 1!
+> Jawab :
+Iterator digunakan untuk mengakses dan menampilkan nilai beserta tambahan ethod lalin
+yang didefinisikan di dalam interface Iterator.
+
 
 ## Percobaan 2 (List)
 ### Langkah Percobaan (ArrayList) 
@@ -48,10 +61,16 @@ Link Kode Program [JAVA_API](../../src/12_Java_API/CobaHashSet.java)
 Link Kode Program [JAVA_API](../../src/12_Java_API/CobaArrayList.java)
 
 ## Pertanyaan 
-1. Apakah fungsi potongan program dibawah ini! 
+1. Apakah fungsi potongan program dibawah ini!
+> Jawab :
+Untuk menampilkan nilai dari mListCountry dan menampilkan data mListCountry index
+ke 0 dan index ke 2. 
 2. Ganti potongan program pada soal no 1 menjadi sebagai berikut  
 Kemudian jalankan program tersebut!
 3. Jelaskan perbedaan menampilkan data pada ArrayList menggunakan potongan program pada soal no 1 dan no 2!
+> Jawab :
+Ketika menggunakan potongan program no 1 maka menampilkan data menggunakan list,
+sedangkan pada potongan program no 2 menampilkan semua data dengan iterator.
 
 ## Percobaan 3 (Map)
 ### Langkah Percobaan 
@@ -68,9 +87,18 @@ Link Kode Program [JAVA_API](../../src/12_Java_API/DemoHashMap.java)
 
 ### Pertanyaan 
 1. Jelaskan fungsi hMapItem.put("1","Biskuit") pada program!
+> Jawab :
+Untuk menambahkan object dengan key 1 dengan nama biscuit ke dalam object
+hMapItem pada HashMap().
 2. Jelaskan fungsi hMapItem.size() pada program!
+> Jawab :
+Untuk menampilkan size atau banyak data dari hMapItem.
 3. Jelaskan fungsi hMapItem.remove("1") pada program!
+> Jawab :
+Untuk menghapus item dengan key 1.
 4. Jelaskan fungsi hMapItem.clear() pada program!
+> Jawab :
+Untuk menghapus semua data yang ada pada hMapItem.
 5. Tambahkan kode program yang di blok pada program yang sudah anda buat!  
 6. Jalankan program dan amati apa yang terjadi! 
 7. Apakah perbedaan program sebelumnya dan setelah ditambahkan kode program pada soal no 5 diatas? Jelaskan!
